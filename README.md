@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **HTML & CSS**
 
-- 🤝 I’m looking for help with **Everything**
+- 🤝 I’m looking for help with **Web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Git-CS-01](https://github.com/Git-CS-01)
 
-- 📝 I regularly write articles on [https://github.com/Git-CS-01](https://github.com/Git-CS-01)
+- 📝 I regularly work on [https://github.com/Git-CS-01](https://github.com/Git-CS-01)
 
-- 💬 Ask me about **Everything**
+- 💬 Ask me about **programing**
 
 - 📫 How to reach me **abma70702@gmail.com**
 
