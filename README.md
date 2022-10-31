@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/01_astronaut" target="blank"><img src="https://img.shields.io/twitter/follow/01_astronaut?logo=twitter&style=for-the-badge" alt="01_astronaut" /></a> </p>
 
-- 🔭 I’m currently working on **pHp mySql Lite**
+- 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **pHp , mysql lite**
+- 🌱 I’m currently learning **JavaScript**
 
 - 🤝 I’m looking for help with **Web development**
 
