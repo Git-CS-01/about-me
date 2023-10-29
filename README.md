@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/01_astronaut" target="blank"><img src="https://img.shields.io/twitter/follow/01_astronaut?logo=twitter&style=for-the-badge" alt="01_astronaut" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **Self improvement**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Pentesting**
 
-- 🤝 I’m looking for help with **Web development**
+- 🤝 I’m looking for help with **Cyber security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Git-CS-01](https://github.com/Git-CS-01)
 
 - 📝 I regularly work on [https://github.com/Git-CS-01](https://github.com/Git-CS-01)
 
-- 💬 Ask me about **programing**
+- 💬 Ask me about **Cyber security**
 
 - 📫 How to reach me **abma70702@gmail.com**
 
